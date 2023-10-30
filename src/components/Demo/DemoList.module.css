@@ -1,0 +1,21 @@
+
+
+.list {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+
+}
+
+.list ul li{
+    
+    background-color: aqua;
+    margin-top: 5px;
+    border-style:ridge;
+    border-radius: 10px;
+    
+}
+
+.list ul {
+    list-style-type: none;
+}
